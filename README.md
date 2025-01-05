@@ -18,14 +18,4 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](http://buymeacoffee.com/AbrarAkhunji) 
 
-- [2025-02-07T14:58:07] style: enhance README formatting and badge definitions
-- [2025-03-12T22:12:29] style: enhance README formatting and badge definitions
-- [2025-03-19T11:52:07] style: enhance README formatting and badge definitions
-- [2025-07-16T14:48:07] style: enhance README formatting and badge definitions
-- [2025-08-29T10:02:15] style: enhance README formatting and badge definitions
-- [2026-01-10T14:20:03] docs(readme): improve documentation notes and usage guidelines
-- [2026-01-13T20:48:14] docs(readme): improve documentation notes and usage guidelines
-- [2026-01-14T18:46:07] style: enhance README formatting and badge definitions
-- [2026-05-21T21:46:33] docs(readme): improve documentation notes and usage guidelines
-- [2026-05-29T20:53:52] docs(readme): improve documentation notes and usage guidelines
-- [2026-07-01T12:54:41] docs(readme): improve documentation notes and usage guidelines
+<!-- [2025-01-05T12:10:59] docs(readme): update project documentation and overview -->
