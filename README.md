@@ -24,3 +24,4 @@
 <!-- [2025-01-23T16:52:52] style: improve formatting and badge alignment -->
 <!-- [2025-04-02T21:56:40] style: improve formatting and badge alignment -->
 <!-- [2025-06-26T21:45:07] style: improve formatting and badge alignment -->
+<!-- [2025-07-23T10:14:30] docs(readme): update project documentation and overview -->
