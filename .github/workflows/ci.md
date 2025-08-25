@@ -1,0 +1,1 @@
+- [2025-08-25T21:32:13] ci: refine automated build workflow documentation
