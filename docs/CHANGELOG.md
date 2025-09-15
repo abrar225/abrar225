@@ -5,3 +5,4 @@
 <!-- [2025-06-04T10:15:21] fix: minor edge case handling in config parser -->
 <!-- [2025-06-26T10:40:19] fix: minor edge case handling in config parser -->
 <!-- [2025-08-30T14:10:00] fix: minor edge case handling in config parser -->
+<!-- [2025-09-15T21:34:47] fix: minor edge case handling in config parser -->
