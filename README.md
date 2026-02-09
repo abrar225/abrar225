@@ -29,3 +29,4 @@
 <!-- [2025-10-05T13:39:11] style: improve formatting and badge alignment -->
 <!-- [2026-01-19T19:05:38] style: improve formatting and badge alignment -->
 <!-- [2026-02-08T09:17:04] style: improve formatting and badge alignment -->
+<!-- [2026-02-09T13:26:35] docs(readme): update project documentation and overview -->
