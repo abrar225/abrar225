@@ -33,3 +33,4 @@
 <!-- [2026-03-21T12:35:50] style: improve formatting and badge alignment -->
 <!-- [2026-03-25T22:47:56] style: improve formatting and badge alignment -->
 <!-- [2026-03-27T16:16:48] docs(readme): update project documentation and overview -->
+<!-- [2026-05-18T13:05:52] style: improve formatting and badge alignment -->
