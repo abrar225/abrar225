@@ -22,8 +22,8 @@
 
 <div align="center">
 
-  [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00f5d4&labelColor=161b22)](https://abrar-portfolio-web.vercel.app/)
-  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=00bbf9&labelColor=161b22)](https://linkedin.com/in/AbrarAkhunji)
+  [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00f5d4&labelColor=161b22)](https://abrarakhunji.com/)
+  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=00bbf9&labelColor=161b22)](https://www.linkedin.com/in/abrar-akhunji/)
   [![Email](https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=00f5d4&labelColor=161b22)](mailto:moabrarakhunji@gmail.com)
   [![Instagram](https://img.shields.io/badge/INSTAGRAM-0d1117?style=for-the-badge&logo=instagram&logoColor=00bbf9&labelColor=161b22)](https://instagram.com/strick.9_)
   [![YouTube](https://img.shields.io/badge/YOUTUBE-0d1117?style=for-the-badge&logo=youtube&logoColor=00f5d4&labelColor=161b22)](https://youtube.com/@Strick_9)
@@ -112,21 +112,6 @@ EOF
 ### `> featured_projects.log`
 
 <details open>
-<summary>⚡ <b>OmniRoute — Free MIT AI Gateway (290+ Providers, 500+ Models)</b></summary>
-
-<br/>
-
-**Description**: Unified AI Gateway providing single-endpoint access to 290+ providers and 500+ AI models (Claude, GPT-4o, Gemini, DeepSeek, Kimi). Features quota-aware auto-fallback, RTK+Caveman token compression saving 15-95% tokens, MCP/A2A protocols, and PWA Desktop apps.
-
-| Dimension | Details |
-| :--- | :--- |
-| **Tech Stack** | TypeScript, Node.js, Next.js, OpenAI API, Anthropic SDK, Gemini API, MCP Protocol |
-| **Role & Impact** | Lead Developer & Maintainer — Built token compression engine & failover router |
-| **Repository** | [`abrar225/OmniRoute`](https://github.com/abrar225/OmniRoute) |
-
-</details>
-
-<details open>
 <summary>🤖 <b>FIXO_CLI — Terminal Autonomous Coding Assistant & Self-Correcting Agent</b></summary>
 
 <br/>
@@ -138,6 +123,66 @@ EOF
 | **Tech Stack** | Python, AST Analysis, Subprocess execution, LLM Integration, CLI Tooling |
 | **Role & Impact** | Creator & Author — Built self-correcting agent loop and code editing engine |
 | **Repository** | [`abrar225/FIXO_CLI`](https://github.com/abrar225/FIXO_CLI) |
+
+</details>
+
+<details open>
+<summary>🖥️ <b>FixO-Room — Natural Language AI Operating Desktop</b></summary>
+
+<br/>
+
+**Description**: Browser-based desktop workspace where an autonomous AI Agent operates web apps, files, and tools through natural language commands.
+
+| Dimension | Details |
+| :--- | :--- |
+| **Tech Stack** | TypeScript, React, Vite, Web APIs, TailwindCSS |
+| **Role & Impact** | Core Developer — Built UI shell and agent command execution bridge |
+| **Repository** | [`abrar225/FixO-Room`](https://github.com/abrar225/FixO-Room) |
+
+</details>
+
+<details open>
+<summary>🍕 <b>GourmetGo — Advanced Food Delivery & Restaurant Platform</b></summary>
+
+<br/>
+
+**Description**: A complex, feature-rich food delivery and restaurant management platform featuring real-time order tracking, multi-vendor support, and secure payments.
+
+| Dimension | Details |
+| :--- | :--- |
+| **Tech Stack** | Next.js, TypeScript, TailwindCSS, Supabase, Stripe |
+| **Role & Impact** | Lead Developer — Architected full-stack solution and real-time database |
+| **Repository** | [`abrar225/GourmetGo`](https://github.com/abrar225/GourmetGo) |
+
+</details>
+
+<details open>
+<summary>🧠 <b>Brain-Tumer-Detection-System — Medical AI Diagnostic Tool</b></summary>
+
+<br/>
+
+**Description**: Advanced deep learning model designed to detect and classify brain tumors from MRI scans with high accuracy, assisting medical professionals in early diagnosis.
+
+| Dimension | Details |
+| :--- | :--- |
+| **Tech Stack** | Python, TensorFlow, Keras, OpenCV, CNN Architecture |
+| **Role & Impact** | AI Researcher — Trained and optimized the neural network |
+| **Repository** | [`abrar225/Brain-Tumer-Detection-System`](https://github.com/abrar225/Brain-Tumer-Detection-System) |
+
+</details>
+
+<details>
+<summary>⚡ <b>OmniRoute — Free MIT AI Gateway (290+ Providers, 500+ Models)</b></summary>
+
+<br/>
+
+**Description**: Unified AI Gateway providing single-endpoint access to 290+ providers and 500+ AI models (Claude, GPT-4o, Gemini, DeepSeek, Kimi). Features quota-aware auto-fallback, RTK+Caveman token compression saving 15-95% tokens, MCP/A2A protocols, and PWA Desktop apps.
+
+| Dimension | Details |
+| :--- | :--- |
+| **Tech Stack** | TypeScript, Node.js, Next.js, OpenAI API, Anthropic SDK, Gemini API, MCP Protocol |
+| **Role & Impact** | Lead Developer & Maintainer — Built token compression engine & failover router |
+| **Repository** | [`abrar225/OmniRoute`](https://github.com/abrar225/OmniRoute) |
 
 </details>
 
@@ -153,21 +198,6 @@ EOF
 | **Tech Stack** | Python, PyTorch, OpenCV, Vision Transformers (ViT), NumPy, Streamlit |
 | **Role & Impact** | AI Research & Development — Trained hybrid ensemble for 41 breed classes |
 | **Repository** | [`abrar225/Cattel_Breed_AI`](https://github.com/abrar225/Cattel_Breed_AI) |
-
-</details>
-
-<details>
-<summary>🖥️ <b>FixO-Room — Natural Language AI Operating Desktop</b></summary>
-
-<br/>
-
-**Description**: Browser-based desktop workspace where an autonomous AI Agent operates web apps, files, and tools through natural language commands.
-
-| Dimension | Details |
-| :--- | :--- |
-| **Tech Stack** | TypeScript, React, Vite, Web APIs, TailwindCSS |
-| **Role & Impact** | Core Developer — Built UI shell and agent command execution bridge |
-| **Repository** | [`abrar225/FixO-Room`](https://github.com/abrar225/FixO-Room) |
 
 </details>
 
@@ -228,8 +258,11 @@ EOF
 
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrar225&layout=compact&theme=dark&bg_color=0d1117&title_color=00f5d4&text_color=f0f6fc&border_color=30363d&hide_border=false" width="49%" alt="Top Languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abrar225&bg_color=0d1117&color=00f5d4&line=00bbf9&point=00f5d4&area=true&hide_border=true" width="49%" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrar225&layout=compact&theme=dark&bg_color=0d1117&title_color=00f5d4&text_color=f0f6fc&border_color=30363d&hide_border=false" width="60%" alt="Top Languages" />
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abrar225&bg_color=0d1117&color=00f5d4&line=00bbf9&point=00f5d4&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 
 </div>
 
@@ -274,8 +307,8 @@ open_for_collaboration:
 
   ### `> connect_with_me.sh`
 
-  [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00f5d4&labelColor=161b22)](https://abrar-portfolio-web.vercel.app/)
-  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=00bbf9&labelColor=161b22)](https://linkedin.com/in/AbrarAkhunji)
+  [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00f5d4&labelColor=161b22)](https://abrarakhunji.com/)
+  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=00bbf9&labelColor=161b22)](https://www.linkedin.com/in/abrar-akhunji/)
   [![Email](https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=00f5d4&labelColor=161b22)](mailto:moabrarakhunji@gmail.com)
   [![YouTube](https://img.shields.io/badge/YOUTUBE-0d1117?style=for-the-badge&logo=youtube&logoColor=00f5d4&labelColor=161b22)](https://youtube.com/@Strick_9)
   [![Instagram](https://img.shields.io/badge/INSTAGRAM-0d1117?style=for-the-badge&logo=instagram&logoColor=00bbf9&labelColor=161b22)](https://instagram.com/strick.9_)
@@ -286,6 +319,6 @@ open_for_collaboration:
 
   <br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer" width="100%" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f5d4&height=120&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
